@@ -1,4 +1,6 @@
-# AngularCrashTodolist
+# angular-crash-todolist
+
+Simple Todo app built while following the [Angular Crash Course](https://www.youtube.com/watch?v=Fdf5aTYRW0E) video by Traversy Media covering fundamental concepts like components, services, modules, etc.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.6.
 
